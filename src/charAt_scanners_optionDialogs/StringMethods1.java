@@ -11,7 +11,7 @@ public class StringMethods1 {
 
 		// 2. Print the 3rd char of your String to the console.
 		//    HINT: .charAt
-		
+		         
 		// 3. Print the length of your String to the console.
 		//    HINT: .length()
 
